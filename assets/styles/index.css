@@ -1,0 +1,68 @@
+nav {
+    background-color: black;
+    height: 70px;
+}
+
+.logo {
+    background-color: blue;
+    float: left;
+    height: 70px;
+    width: 90px;
+}
+
+.nav_button {
+    background-color: yellow;
+    border: black 2px solid;
+    float: right;
+    /* clear: initial; */
+    height: 70px;
+    width: 96px;
+}
+
+h1 {
+    color: blue;
+    border: black solid 1px;
+    text-align: center;
+    margin: 50px auto;
+    font-size: 60px;
+}
+
+aside {
+    background-color: red;
+    text-decoration: underline;
+    float: left;
+    clear: both;
+    height: 599px;
+    width: 30%;
+    margin-right: 2%;
+}
+
+.main_wrapper {
+    float: right;
+    height: 600px;
+    width: 60%;
+    background-color: grey;
+}
+
+.box {
+    border: blue solid 3px;
+    float: left;
+    position: relative;
+    height: 40px;
+    width: 32%;
+    margin: 0 auto;
+    height: 50%;
+}
+
+.article {
+    height: 42%;
+    background-color: green;
+    position: relative;
+    top: 350px;
+}
+
+footer{
+  height: 40px;
+  margin: 0 auto;
+  background-color: black;
+}
